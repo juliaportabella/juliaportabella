@@ -15,4 +15,5 @@ Se creará una carpeta para el CV;
 Se creará otra carpeta para el capítulo 6 del libro;
   
 <a href="https://github.com/juliaportabella/juliaportabella/blob/main/I%20página%20web/traduccion%20cap6.pdf">
+<img src="https://user-images.githubusercontent.com/82124766/122589799-163ff100-d037-11eb-8533-ba8b9259bee3.png">
 </a>
