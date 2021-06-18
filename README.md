@@ -1,16 +1,17 @@
-### Hi there 👋
+# TyHM-
 
-<!--
-**juliaportabella/juliaportabella** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Trabajos de Técnicas y Herramientas Modernas
 
-Here are some ideas to get you started:
+Alumno: Julia Portabella;
+Grupo: Los absorbedores
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# Módulo I - Creación de textos e hipertextos 
+Se creará una carpeta para el CV;
+
+<a href="https://github.com/juliaportabella/juliaportabella/blob/main/I%20página%20web/CV_Portabella_Julia.pdf">
+</a>
+  
+Se creará otra carpeta para el capítulo 6 del libro;
+  
+<a href="https://github.com/juliaportabella/juliaportabella/blob/main/I%20página%20web/traduccion%20cap6.pdf">
+</a>
